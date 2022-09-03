@@ -3,3 +3,9 @@
 ```
 npx expo init orgs-cesta
 ```
+
+### Comando para baixar uma fonte do Google
+
+```
+npx expo install expo-font @expo-google-fonts/montserrat
+```
