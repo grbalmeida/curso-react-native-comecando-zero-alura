@@ -9,3 +9,9 @@ npx expo init orgs-cesta
 ```
 npx expo install expo-font @expo-google-fonts/montserrat
 ```
+
+### Comando para instalar ExpoAppLoading
+
+```
+npx expo install expo-app-loading
+```
