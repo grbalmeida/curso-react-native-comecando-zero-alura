@@ -15,3 +15,9 @@ npx expo install expo-font @expo-google-fonts/montserrat
 ```
 npx expo install expo-app-loading
 ```
+
+### Comando para instalar eas-cli globalmente
+
+```
+npm install -g eas-cli
+```
